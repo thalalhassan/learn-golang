@@ -1,0 +1,8 @@
+db_config:  
+  host: localhost  
+  port: 5432  
+  username: user  
+  password: pass  
+  database: mydb  
+port: 1000  
+code: 1000  
